@@ -1,8 +1,8 @@
 -Hi, I am Paulose Kurian and I am currently pursuing my bachelor's in Engineering Physics from NIT Calicut.
 
--My love for coding led me to the creation of a git-hub profile and learning git.
+-my love for coding led me to being a self taught programmer.
 
--my skills so far are obviously git, javascript, textscript, html, css, python, java, linux shell and postgressql.
+-skills acquired so far are git, javascript, textscript, html, css, python, java, linux shell and postgressql.
 
 -currently I am involved in learning vue.js to create user friendly interactive websites.
 
