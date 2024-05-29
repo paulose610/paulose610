@@ -1,4 +1,6 @@
--Hi, I am Paulose Kurian and I am currently pursuing my bachelor's in Engineering Physics from NIT Calicut.
+-Hi, I am Paulose Kurian and I am currently pursuing a degree in Data Science from IIT Madras online Degree on Programming and Data Science.
+
+-I have completed a degree in Engineering Physics from NIT Calicut and a diploma in programming from IITM Olnine degree program. 
 
 -my love for coding led me to being a self taught programmer.
 
