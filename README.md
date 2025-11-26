@@ -3,37 +3,31 @@
 I am currently pursuing a **BSc in Programming & Data Science** from **IIT Madras (Online Degree Program)**.  
 I previously completed my **B.Tech in Engineering Physics** from **NIT Calicut**.
 
-My passion for technology—and especially **coding**—led me to become a **self-taught programmer**, continuously exploring new tools and building projects across web development and AI.
+My passion for technology—and especially **coding**—led me to become a **self-taught programmer**, continuously exploring new tools and building projects across Software development and AI.
 
 ---
 
-## 🚀 Projects
+## 🔧 Featured Projects
 
-### 🥬 GreenVent
-A grocery store **web application** built using the **Flask (Python) framework**.  
-Features include:
-- Product browsing  
-- Shopping cart functionality  
-- Simple purchasing workflow  
-
-**Tech Stack:** Python, Flask, HTML/CSS, SQLite
+### 🛒 Flask Grocery Store App
+**Flask · MySQL**  
+Locally hosted grocery store system with modular routing, product/category management, and secure authentication (Flask-Login + Bcrypt).  
+**Repo:** (GitHub link)
 
 ---
 
-### 🎵 SyncIn
-A **music player web app** based on a **client–server architecture**, developed using **Vue.js** (frontend) and **Flask** (backend).  
-Enables users to stream and manage music seamlessly.
-
-**Tech Stack:** Vue.js, Flask, REST API, JavaScript
-
----
-
-### 🎓 Academic Guidance AI Agent
-An AI-powered **academic guidance platform** built using **React** and **FastAPI**, leveraging **Agno** to help students with course selection and academic planning.
-
-**Tech Stack:** React, FastAPI, Agno, Python
+### 🎵 Syncin – Music Streaming App
+**Flask · Vue 3 · Celery · Redis · PostgreSQL**  
+Full-stack music streaming platform with async playlist tasks, metadata extraction, and scheduled Celery jobs.  
+**Repo:** (GitHub link)
 
 ---
+
+### 🤖 Agentic AI Academic Advisor (Backend)
+**FastAPI · Agno**  
+Backend for an agent-driven academic guidance system with tools for calendar access, search, conversions, and RAG-based course content queries.  
+**Repo:** (GitHub link)
+
 
 <!---
 paulose610/paulose610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
