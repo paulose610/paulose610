@@ -12,21 +12,18 @@ My passion for technology—and especially **coding**—led me to become a **sel
 ### 🛒 Flask Grocery Store App
 **Flask · MySQL**  
 Locally hosted grocery store system with modular routing, product/category management, and secure authentication (Flask-Login + Bcrypt).  
-**Repo:** (GitHub link)
 
 ---
 
 ### 🎵 Syncin – Music Streaming App
 **Flask · Vue 3 · Celery · Redis · PostgreSQL**  
 Full-stack music streaming platform with async playlist tasks, metadata extraction, and scheduled Celery jobs.  
-**Repo:** (GitHub link)
 
 ---
 
 ### 🤖 Agentic AI Academic Advisor (Backend)
 **FastAPI · Agno**  
 Backend for an agent-driven academic guidance system with tools for calendar access, search, conversions, and RAG-based course content queries.  
-**Repo:** (GitHub link)
 
 
 <!---
