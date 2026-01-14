@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paulose Kurian
 
-I am currently pursuing a **BSc in Programming & Data Science** from **IIT Madras (Online Degree Program)**.  
+I am currently pursuing a **BS in Programming & Data Science** from **IIT Madras (Online Degree Program)**.  
 I previously completed my **B.Tech in Engineering Physics** from **NIT Calicut**.
 
 My passion for technology—and especially **coding**—led me to become a **self-taught programmer**, continuously exploring new tools and building projects across Software development and AI.
